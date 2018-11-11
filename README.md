@@ -1,6 +1,8 @@
-# NekoAnki -- Gamefying Spaced Repetition Software on Android 
+# NekoAnki: A gamified Anki flashcard learning software
 
-Hi, thanks for trying out Neko-Anki! I hope this will improve your flashcard learning experience while gathering cute cats :) 
+Are you interested in a gamified flashcard learning experience?
+
+Try NekoAnki, a cat collector game (AndroidNougatEasterEgg) combined with the Anki flashcard software. :)
 
 *********
 
@@ -42,12 +44,14 @@ To connect the two apps, you need to click the “Earn Coins” option in the Qu
 
 [Reddit Post for this project](https://www.reddit.com/r/Anki/comments/8v4p2w/nekoanki_a_gamified_anki_flashcard_learning/)
 
-[Android Nougat Easter Egg](https://play.google.com/store/apps/details?id=com.covertbagel.neko&hl=en_GBA)
+[Android Nougat Easter Egg (original game)](https://play.google.com/store/apps/details?id=com.covertbagel.neko&hl=en_GBA)
 
-[AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_GB)
+[AnkiDroid (original learning software)](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_GB)
 
 Please note that these two apps are based on AndroidNougatEasterEgg and Ankidroid.
 If you have previously installed AndroidNougatEasterEgg, please uninstall and use this version instead. The cats will still be there :)
 As for NekoAnki, it will not affect the original version (AnkiDroid).
 
+*********
 
+Note: This app was developed and is used for the purposes of my thesis work. No emails or social media account information are required to log-in. The game tracks the number of coins, the number of cats, the number of decks, the number of cards reviewed, and the number of daily logins for analysis of user’s experience (part of my thesis work).
