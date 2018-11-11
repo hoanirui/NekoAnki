@@ -1,5 +1,4 @@
-# NekoAnki
-Gamefying Spaced Repetition Software on Android 
+# NekoAnki -- Gamefying Spaced Repetition Software on Android 
 
 Hi, thanks for trying out Neko-Anki! I hope this will improve your flashcard learning experience while gathering cute cats :) 
 
@@ -18,13 +17,11 @@ Also, you can directly access NekoAnki to earn coins when you feel like studying
 *********
 
 # Set-up Instructions
-You can directly click APKs in one of the apk folders to install both applications. 
-Game_and_Learn contains a connected version of the game and learning software (named NekoAnki). 
-Game_or_Learn is for people who want to play the game and learn Anki (named AnkiLearn) separately.
+Please use the two APKs provided to install both applications. 
 
 *********
 
-# For the game especially
+# For the game
 After installing the APKs, please scroll down the Quick Setting menu twice and click the edit symbol for the settings.
 From there, scroll all the way down and you will find a cat labeled "????" at the bottom.
 Long press this tile and drag it up to the Quick Setting area.
@@ -37,13 +34,19 @@ Please see also relevant videos for visual instructions.
 # Connecting the two apps
 To connect the two apps, you need to click the “Earn Coins” option in the Quick Setting menu once. Once initialized, coins may be earned directly through studying flashcards in the NekoAnki software. Note that an Internet connection is required to earn coins.
 
+*********
+
+# References
+[Google Drive for this project](https://drive.google.com/open?id=1L5BNYvV31faxqK6797tmZ56HUmtjqjdA)
+
+Please refer to the details on the original game and learning software.
+
+[Android Nougat Easter Egg](https://play.google.com/store/apps/details?id=com.covertbagel.neko&hl=en_GBA)
+
+[AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_GB)
+
 Please note that these two apps are based on AndroidNougatEasterEgg and Ankidroid.
 If you have previously installed AndroidNougatEasterEgg, please uninstall and use this version instead. The cats will still be there :)
 As for NekoAnki, it will not affect the original version (AnkiDroid).
 
-*********
 
-# References
-Please refer to the details on the original game and learning software.
-Android Nougat Easter Egg
-AnkiDroid
