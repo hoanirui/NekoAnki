@@ -16,7 +16,8 @@ Also, you can directly access NekoAnki to earn coins when you feel like studying
 
 *********
 
-# Set-up Instructions
+# Requirement and Set-up Instructions
+Available on Android P and O.
 Please use the two APKs provided to install both applications. 
 
 *********
@@ -38,8 +39,6 @@ To connect the two apps, you need to click the “Earn Coins” option in the Qu
 
 # References
 [Google Drive for this project](https://drive.google.com/open?id=1L5BNYvV31faxqK6797tmZ56HUmtjqjdA)
-
-Please refer to the details on the original game and learning software.
 
 [Android Nougat Easter Egg](https://play.google.com/store/apps/details?id=com.covertbagel.neko&hl=en_GBA)
 
