@@ -40,6 +40,8 @@ To connect the two apps, you need to click the “Earn Coins” option in the Qu
 # References
 [Google Drive for this project](https://drive.google.com/open?id=1L5BNYvV31faxqK6797tmZ56HUmtjqjdA)
 
+[Reddit Post for this project](https://www.reddit.com/r/Anki/comments/8v4p2w/nekoanki_a_gamified_anki_flashcard_learning/)
+
 [Android Nougat Easter Egg](https://play.google.com/store/apps/details?id=com.covertbagel.neko&hl=en_GBA)
 
 [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_GB)
